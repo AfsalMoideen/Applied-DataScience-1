@@ -36,4 +36,4 @@ def fibo(n):
             b = c
             print(c)
             
-fibo(x)
+fib(x)
